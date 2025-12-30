@@ -69,5 +69,5 @@ I aim to apply my skills in **Python, SQL, Power BI, and data analytics** while 
  📫 Connect with Me
 - 📧 Email: kadiashailee@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/shailee-kadia-801696245](https://linkedin.com/in/shailee-kadia-801696245)
-- 💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 💻 GitHub: [github.com/kadiashailee-devias](https://github.com/kadiashailee-devias)
 
