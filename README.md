@@ -1,73 +1,90 @@
-👋 Hi, I'm Shailee Urmesh Kadia
+# Hi, I'm Shailee Kadia 👋
 
-📍 Ahmedabad, Gujarat, India  
-🎓 M.Sc. IT (Data Management & Visual Insight) 
-📊 Aspiring Data Analyst | AI & Data Enthusiast  
+### Aspiring Data Analyst | Business Intelligence | Power BI
 
+📍 Ahmedabad, Gujarat, India
 
+I am an Integrated M.Sc. IT graduate from Gujarat University, specializing in Data Management & Visual Insight.
 
-🎯 Career Objective
-Curious and motivated M.Sc. IT student with a strong interest in Data Analysis, Visualization, and AI-driven insights.  
-I aim to apply my skills in **Python, SQL, Power BI, and data analytics** while learning real-world problem solving in a professional environment.
+I enjoy working with data, discovering patterns, building dashboards, and translating data into meaningful business insights.
 
+I'm building practical experience through data analytics, business intelligence and machine learning projects.
 
-🛠 Technical Skills
+## 🛠️ Technical Skills
 
-📌 Data & Programming
-- Python (Pandas, NumPy, basic ML & NLP)
-- SQL (Filtering, Joins, Aggregation)
-- Microsoft Excel (Data Cleaning, Pivot Tables)
+**Programming & Data Analysis**
+- Python
+- SQL
+- Pandas
+- NumPy
 
-📊 Data Visualization & BI
-- Power BI (Dashboards, Filters, KPIs)
-- Matplotlib (Basic Visualizations)
+**Business Intelligence & Visualization**
+- Microsoft Power BI
+- Microsoft Excel
+- Power Query
+- DAX
+- Matplotlib
 
- 🤖 AI / ML (Academic Level)
-- Machine Learning Fundamentals
-- Introduction to NLP
-- Basic Statistics & Mathematics
-- Introductory understanding of LLMs
-
- ⚙ Tools & Platforms
-- Git & GitHub
+**Other Tools**
 - Jupyter Notebook
-- VS Code
 - Google Colab
-- ChatGPT, Gemini, Perplexity (for learning & research)
+- VS Code
+- Git & GitHub
 
- 📂 Projects
+## 📊 Featured Projects
 
-🔹 Data Analysis & Visualization using Python
-- Data cleaning & preprocessing using Pandas
-- Exploratory Data Analysis (EDA)
-- Trend & insight generation through visualizations
+### 1. Sales & Profit Performance Dashboard
+Tools: Power BI, Excel, Power Query, DAX
 
- 🔹 Power BI Dashboard (Practice Project)
-- Created interactive dashboards using sample datasets
-- Used slicers, charts & KPIs
-- Focused on business insights & decision making
+An interactive dashboard analyzing sales, profit and business KPIs.
 
- 🔹 SQL Practice for Data Analysis
-- Practiced queries on relational datasets
-- Used GROUP BY, WHERE, HAVING
-- Strengthened database fundamentals
+[View Project](https://github.com/kadiashailee-devias/Sales-Profit-PowerBI-Dashboard)
 
-📚 Relevant Coursework
-- Data Management & Visual Insight
-- Data Analytics
-- Database Management Systems
-- Machine Learning (Basics)
-- Natural Language Processing (Intro)
-- Software Engineering
+### 2. Business Performance Analysis
+Tools: Python, Pandas, NumPy, Matplotlib
 
-🌱 Currently Learning
-- Advanced Python for Data Analysis  
-- Power BI (DAX basics)
-- Real-world SQL problems
-- Portfolio project building
+An academic business analysis project involving data cleaning, exploratory data analysis and business insights.
 
- 📫 Connect with Me
-- 📧 Email: kadiashailee@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/shailee-kadia-801696245](https://linkedin.com/in/shailee-kadia-801696245)
-- 💻 GitHub: [github.com/kadiashailee-devias](https://github.com/kadiashailee-devias)
+[View Project](https://github.com/kadiashailee-devias/Business-Performance-Analysis)
 
+### 3. Student Performance Prediction
+Tools: Python, Pandas, Scikit-learn, Matplotlib
+
+A machine learning classification project predicting student pass/fail outcomes using study hours and attendance.
+
+[View Project](https://github.com/kadiashailee-devias/Student-Performance-Prediction)
+
+### 4. Data Analytics Projects
+Python, Power BI and SQL practice projects.
+
+[Explore Projects](https://github.com/kadiashailee-devias/Data-Analytics-Kaggle-Projects)
+
+## 🎓 Education
+
+Integrated M.Sc. IT  
+Gujarat University, Ahmedabad  
+Specialization: Data Management & Visual Insight
+
+## 🌱 Currently Improving
+
+- Advanced SQL for data analysis
+- Power BI and DAX
+- Python for data analytics
+- Statistics and business analysis
+- Real-world portfolio projects
+
+## 🎯 Career Interests
+
+- Data Analyst
+- Business Intelligence Analyst
+- Power BI Developer
+- MIS Analyst
+- Reporting Analyst
+
+## 🤝 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/shailee-kadia-801696245/
+- GitHub: https://github.com/kadiashailee-devias
+- Email: kadiashailee@gmail.com
+
+Always interested in learning, collaborating and exploring opportunities in Data Analytics and Business Intelligence.
