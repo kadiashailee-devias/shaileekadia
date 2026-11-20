@@ -1,7 +1,7 @@
 👋 Hi, I'm Shailee Urmesh Kadia
 
 📍 Ahmedabad, Gujarat, India  
-🎓 M.Sc. IT (Data Management & Visual Insight) – Semester 9  
+🎓 M.Sc. IT (Data Management & Visual Insight) 
 📊 Aspiring Data Analyst | AI & Data Enthusiast  
 
 
